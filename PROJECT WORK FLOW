@@ -1,0 +1,16 @@
+Dataset (tedx_dataset.csv)
+        ↓
+Text Preprocessing
+  • Lowercasing
+  • Removing stopwords
+  • Lemmatization
+        ↓
+TF-IDF Vectorization
+        ↓
+Cosine Similarity Matrix
+        ↓
+Recommendation Function
+        ↓
+Streamlit App (app.py)
+  • User selects TED Talk
+  • Recommended videos are displayed
